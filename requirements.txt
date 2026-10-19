@@ -1,0 +1,9 @@
+# Phiên bản đã chạy thành công (Python 3.10.11, Windows). Cập nhật bằng `pip freeze` khi thêm thư viện.
+numpy==2.2.6
+pandas==2.3.3
+tifffile==2025.5.10
+scikit-learn==1.7.2
+statsmodels==0.15.0
+scipy
+matplotlib
+pytest
